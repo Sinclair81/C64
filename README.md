@@ -2,7 +2,7 @@
 
 [![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://www.paypal.me/Sinclair81)
 
-## TinyAdapter ##
+## TinyAdapter (for Tiny-EPROMer from FaszinationC64.de) ##
 
 <!-- markdownlint-disable MD033 -->
 <img src="https://raw.githubusercontent.com/Sinclair81/C64/master/TinyAdapter/TinyAdapter.png" align="center" alt="TinyAdapter" height="249" width="472">
